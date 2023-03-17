@@ -1,0 +1,11 @@
+C:\Users\arian\OneDrive\Desktop\COLLEGE\AAMU\CLASSES\Fall 2022\CS 401 - Software Engineering\Project Docs\Lab 5\CS314AppSln\CS314AppSln\CS314AppPrj\obj\Debug\CS314AppPrj.csproj.AssemblyReference.cache
+C:\Users\arian\OneDrive\Desktop\COLLEGE\AAMU\CLASSES\Fall 2022\CS 401 - Software Engineering\Project Docs\Lab 5\CS314AppSln\CS314AppSln\CS314AppPrj\obj\Debug\CS314AppPrj.csproj.SuggestedBindingRedirects.cache
+C:\Users\arian\OneDrive\Desktop\COLLEGE\AAMU\CLASSES\Fall 2022\CS 401 - Software Engineering\Project Docs\Lab 5\CS314AppSln\CS314AppSln\CS314AppPrj\obj\Debug\CS314AppPrj.HelpForm.resources
+C:\Users\arian\OneDrive\Desktop\COLLEGE\AAMU\CLASSES\Fall 2022\CS 401 - Software Engineering\Project Docs\Lab 5\CS314AppSln\CS314AppSln\CS314AppPrj\obj\Debug\CS314AppPrj.ContactForm.resources
+C:\Users\arian\OneDrive\Desktop\COLLEGE\AAMU\CLASSES\Fall 2022\CS 401 - Software Engineering\Project Docs\Lab 5\CS314AppSln\CS314AppSln\CS314AppPrj\obj\Debug\CS314AppPrj.EmailForm.resources
+C:\Users\arian\OneDrive\Desktop\COLLEGE\AAMU\CLASSES\Fall 2022\CS 401 - Software Engineering\Project Docs\Lab 5\CS314AppSln\CS314AppSln\CS314AppPrj\obj\Debug\CS314AppPrj.MainScreen.resources
+C:\Users\arian\OneDrive\Desktop\COLLEGE\AAMU\CLASSES\Fall 2022\CS 401 - Software Engineering\Project Docs\Lab 5\CS314AppSln\CS314AppSln\CS314AppPrj\obj\Debug\CS314AppPrj.LoginForm.resources
+C:\Users\arian\OneDrive\Desktop\COLLEGE\AAMU\CLASSES\Fall 2022\CS 401 - Software Engineering\Project Docs\Lab 5\CS314AppSln\CS314AppSln\CS314AppPrj\obj\Debug\CS314AppPrj.Properties.Resources.resources
+C:\Users\arian\OneDrive\Desktop\COLLEGE\AAMU\CLASSES\Fall 2022\CS 401 - Software Engineering\Project Docs\Lab 5\CS314AppSln\CS314AppSln\CS314AppPrj\obj\Debug\CS314AppPrj.TestForm1.resources
+C:\Users\arian\OneDrive\Desktop\COLLEGE\AAMU\CLASSES\Fall 2022\CS 401 - Software Engineering\Project Docs\Lab 5\CS314AppSln\CS314AppSln\CS314AppPrj\obj\Debug\CS314AppPrj.csproj.GenerateResource.cache
+C:\Users\arian\OneDrive\Desktop\COLLEGE\AAMU\CLASSES\Fall 2022\CS 401 - Software Engineering\Project Docs\Lab 5\CS314AppSln\CS314AppSln\CS314AppPrj\obj\Debug\CS314AppPrj.csproj.CoreCompileInputs.cache
